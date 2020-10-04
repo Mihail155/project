@@ -7,7 +7,7 @@ import '@vkontakte/vkui/dist/vkui.css';
 import Home from './panels/Home';
 import Persik from './panels/Persik';
 
-let = bridge.send("VKWebAppAllowNotifications");
+let uvedomlenie= bridge.send("VKWebAppAllowNotifications");
 
 
 const App = () => {
